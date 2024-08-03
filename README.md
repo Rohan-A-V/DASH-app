@@ -1,7 +1,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![pip](https://img.shields.io/badge/pip-21.1.2-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
-[![Deployment](https://img.shields.io/badge/Deployment-Live-46E3B7?style=for-the-badge&logo=render&logoColor=white)]([https://your-deployment-url.com](https://dash-app-6v6z.onrender.com))
+[![Deployment](https://img.shields.io/badge/Deployment-Live-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://dash-app-6v6z.onrender.com)
 
 
 # DASH - App
